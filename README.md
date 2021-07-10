@@ -2,6 +2,10 @@
 
 Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando hasta tarde. 👨‍💻👩‍💻
 
+## Only Dark
+
+<img src="icons/onlydark.img.PNG"/>
+
 ## Instación
 
 1.Instala Visual Studio Code <br>
