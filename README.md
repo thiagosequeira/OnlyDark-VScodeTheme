@@ -2,6 +2,10 @@
 
 Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando hasta tarde. 👨‍💻👩‍💻
 
+## Only Dark 🌙
+
+![](images/onlydark-img.PNG)
+
 ## Instación
 
 1.Instala Visual Studio Code <br>
@@ -11,7 +15,7 @@ Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando
 5.En el menú click: Code > Preferencias > Color Theme > Only Dark<br>
 6.Codea!
 
-### Más información
+## Más información
 * [Codigo Fuente de Only Dark](https://github.com/thsequeira/OnlyDark-VScodeTheme)
 * [Thiago Sequeira](https://www.linkedin.com/in/thiagosequeira/)
 
