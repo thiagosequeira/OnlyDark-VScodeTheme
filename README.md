@@ -2,7 +2,7 @@
 
 Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando hasta tarde. 👨‍💻👩‍💻
 
-## Only Dark 🌙
+### ScreenShot 🌙
 
 ![](icons/onlydark-img.PNG)
 
