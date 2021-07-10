@@ -4,7 +4,7 @@ Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando
 
 ## Only Dark 🌙
 
-![](images/onlydark-img.PNG)
+![](icons/onlydark-img.PNG)
 
 ## Instación
 
