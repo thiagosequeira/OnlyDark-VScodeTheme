@@ -13,6 +13,6 @@ Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando
 
 ### Más información
 * [Codigo Fuente de Only Dark](https://github.com/thsequeira/OnlyDark-VScodeTheme)
-* [Thiago Seuqueira](https://www.linkedin.com/in/thiagosequeira/)
+* [Thiago Sequeira](https://www.linkedin.com/in/thiagosequeira/)
 
 **Espero lo disfruten!**
