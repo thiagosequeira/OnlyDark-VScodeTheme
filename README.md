@@ -4,7 +4,7 @@ Un tema de Visual Studio para los amantes del modo oscuro y de quedarse codeando
 
 ## Only Dark
 
-<img src="icons/onlydark.img.PNG"/>
+<img src="https://imgur.com/a/7bjsUhX"/>
 
 ## Instación
 
