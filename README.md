@@ -1,6 +1,5 @@
 # Only Dark 🖤
 
-<<<<<<< HEAD
 A Visual Studio theme for lovers of dark mode and for those who work late. 👨‍💻👩‍💻
 
 ## ScreenShots 🌙
