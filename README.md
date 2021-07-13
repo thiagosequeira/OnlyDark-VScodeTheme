@@ -6,16 +6,9 @@ A Visual Studio theme for lovers of dark mode and for those who work late. ðŸ‘¨â
 
 JavaScript
 
-![](icons/screenshot-1.PNG)
+![](icons/screenshot.PNG)
 
-HTML
-
-![](icons/screenshot-2.PNG)
-
-CSS
-
-![](icons/screenshot-3.PNG)
-
+![](icons/code.png)
 
 ## Installation
 
@@ -28,6 +21,7 @@ CSS
 7. Enjoy!
 
 ## More
+
 * [Only Dark](https://github.com/thsequeira/OnlyDark-VScodeTheme)
 * [Thiago Sequeira](https://www.linkedin.com/in/thiagosequeira/)
 
