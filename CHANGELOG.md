@@ -2,6 +2,10 @@
 
 All notable changes to the "only-dark" extension will be documented in this file.
 
+## "1.0.1"
+
+- Updated readme with new screenshots
+
 ## "1.0.0"
 
 - Initial release
