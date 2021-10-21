@@ -1,17 +1,10 @@
-# Only Dark 🖤
+# Only Dark for Visual Studio Code
 
-A Visual Studio theme for lovers of dark mode and for those who work late. 👨‍💻👩‍💻
-
-## ScreenShots 🌙
-
-JavaScript
+Only Dark is a color scheme, customized user interface theme for Visual Studio Code. It has been designed by the author of the original Only Dark colors. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface. The single goal of Only Dark is to let you focus on your code.
 
 ![](icons/code.png)
 
-![](icons/screenshot.PNG)
-
-
-## Installation
+## ☞ How to install free for Visual Studio Code:
 
 1. Install Visual Studio Code <br>
 2. Choose Extensions from menu<br>
@@ -21,9 +14,6 @@ JavaScript
 6. From the menu bar click: Code > Preferences > Color Theme > Only Dark<br>
 7. Enjoy!
 
-## More
+## Credits
 
-* [Only Dark](https://github.com/thsequeira/OnlyDark-VScodeTheme)
-* [Thiago Sequeira](https://www.linkedin.com/in/thiagosequeira/)
-
-**Enjoy!**
+Special thank to [Thiago Sequeira](https://github.com/thsequeira), the creator of Only Dark original theme.

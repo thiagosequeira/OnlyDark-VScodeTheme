@@ -1,8 +1,8 @@
 {
     "name": "only-dark",
     "displayName": "Only Dark",
-    "description": "Night theme for nights developers",
-    "version": "1.0.1",
+    "description": "Official Only Dark Theme. Dark theme for developers",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.58.0"
     },
